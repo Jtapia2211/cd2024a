@@ -1,2 +1,2 @@
-# cd2024a
-personal cd2024a
+# dm2024a
+personal dm2024a
